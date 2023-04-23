@@ -1,11 +1,32 @@
 {
   "name": "bing-wallpaper-daily",
   "version": "1.0.4",
+  "description": "Get daily Bing wallpaper with Node.js",
   "main": "index.js",
+  "keywords": [
+    "bing",
+    "wallpaper",
+    "daily"
+  ],
+  "author": {
+    "name": "exposir",
+    "email": "exposir213@gmail.com",
+    "url": "https://github.com/exposir"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/exposir/bing-wallpaper-daily"
+  },
+  "bugs": {
+    "url": "https://github.com/exposir/bing-wallpaper-daily/issues"
+  },
+  "homepage": "https://github.com/exposir/bing-wallpaper-daily#readme",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "start": "node index.js"
   },
   "dependencies": {
     "axios": "^1.3.6"
