@@ -2,7 +2,7 @@
   "name": "bing-wallpaper-daily",
   "version": "1.0.5",
   "description": "Get daily Bing wallpaper with Node.js",
-  "main": "index.js",
+  "main": "src/index.js",
   "keywords": [
     "bing",
     "wallpaper",
